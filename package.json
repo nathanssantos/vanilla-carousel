@@ -1,0 +1,31 @@
+{
+  "name": "vanilla-carousel",
+  "version": "1.0.0",
+  "description": "Vanilla JS Carousel with swipe feature on mobile.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "author": {
+    "name": "Nathan Silva Santos",
+    "email": "nathansilvasantos@gmail.com"
+  },
+  "keywords": [
+    "vanilla",
+    "carousel",
+    "slider",
+    "swipe"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanssantos/vanilla-carousel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nathanssantos/vanilla-carousel/issues"
+  },
+  "homepage": "https://nathanssantos.github.io/vanilla-carousel"
+}
